@@ -1,2 +1,2 @@
-# Promedio10Notas
+# PruebaGithub
 Created with CodeSandbox
